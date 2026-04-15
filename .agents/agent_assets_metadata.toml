@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "KPQKgJH5bsCsHWlbjH82j"
+uri = "file://metroos-website.tar.gz"
+type = "unspecified"
+title = "metroos-website.tar.gz"

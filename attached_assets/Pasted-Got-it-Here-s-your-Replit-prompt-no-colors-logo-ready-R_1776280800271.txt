@@ -1,0 +1,70 @@
+Got it. Here's your Replit prompt — no colors, logo-ready.
+
+---
+
+**REPLIT PROMPT:**
+
+Create a clean, professional single-page website for MetroOS Technologies — a transit technology startup building the operating system for African cities.
+
+**DESIGN REQUIREMENTS:**
+- Modern, minimal, tech-forward aesthetic
+- Responsive for mobile and desktop
+- Fast loading, lightweight
+- Logo placement in header (I will upload my own logo)
+- Clean typography with strong hierarchy
+
+**SECTIONS:**
+
+1. **Navigation Bar**
+   - Logo on left
+   - Links: Product, About, Contact
+   - CTA button: "Join Pilot"
+
+2. **Hero Section**
+   - Headline: "The Operating System for African Transit"
+   - Subheadline: "Payments, intelligence, and electric infrastructure for the continent's moving cities. Starting in Nairobi."
+   - Two buttons: "Join the Pilot" (primary) + "Learn More" (secondary)
+   - Background: Subtle abstract pattern or clean solid
+
+3. **Problem Section**
+   - Headline: "Nairobi Moves 2 Million People Daily. No One Knows How."
+   - Three stat cards:
+     - 40,000+ matatus, 500+ SACCOs
+     - $500M annual revenue, 30% leakage
+     - Zero real-time data for planning
+
+4. **Solution Section**
+   - Headline: "Three Layers. One Platform."
+   - Three feature cards with icons:
+     - **Payments:** Contextual NFC cards, driver terminals, automated settlements
+     - **Intelligence:** Route optimization, demand prediction, SACCO dashboards
+     - **Energy:** EV charging infrastructure, fleet financing, grid management
+
+5. **Why It Works Section**
+   - Headline: "Built Different"
+   - Brief comparison: Others imposed top-down mandates. We empower drivers and SACCOs with earnings increases and transparency.
+
+6. **Traction Section**
+   - Headline: "Piloting in Nairobi"
+   - Text: "Currently in discussions with professional SACCOs for Q3 2024 pilot program."
+   - Email signup form: "Get pilot updates"
+
+7. **Footer**
+   - Email: hello@metroostechnologies.com
+   - LinkedIn: linkedin.com/company/metroos-technologies
+   - Copyright 2024 MetroOS Technologies
+
+**TECHNICAL:**
+- HTML/CSS/JavaScript or React
+- Deploy-ready on Replit
+- Logo placeholder in /assets folder
+- Responsive breakpoints for mobile
+- Smooth scroll navigation
+
+**DELIVERABLE:**
+- Fully functional, responsive website
+- Clean code structure
+- Easy to customize text and swap logo
+- Working email capture form
+
+---

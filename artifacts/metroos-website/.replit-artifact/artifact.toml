@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "MetroOS Technologies"
+version = "1.0.0"
+id = "artifacts/metroos-website"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18659
+
+[services.development]
+run = "pnpm --filter @workspace/metroos-website run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/metroos-website", "run", "build" ]
+publicDir = "artifacts/metroos-website/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18659"
+BASE_PATH = "/"
